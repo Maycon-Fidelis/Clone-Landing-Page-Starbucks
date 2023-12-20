@@ -1,5 +1,5 @@
 
-                                    ## Projeto Clone Landing Page Starbucks
+                                    Projeto Clone Landing Page Starbucks
 
 # Visão Geral:
 
