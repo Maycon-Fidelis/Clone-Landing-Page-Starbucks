@@ -1,6 +1,7 @@
-
-                                    Projeto Clone Landing Page Starbucks
-
+<div align="center">
+Projeto Clone Landing Page Starbucks
+</div>
+                    
 # Visão Geral:
 
 Esse projeto representa uma parte da minha jornada como desenvolvedor, onde nele procurei aplicar de forma profissional todos os meus conhecimentos adquiridos. O projeto é um clone da landing page do StarBucks. Com o objetivo de demonstrar o domínio das tecnologias.
