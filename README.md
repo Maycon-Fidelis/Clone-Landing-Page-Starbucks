@@ -1,5 +1,5 @@
 <div align="center">
-Projeto Clone Landing Page Starbucks
+<h1>Projeto Clone Landing Page Starbucks</h1>
 </div>
                     
 # Visão Geral:
@@ -15,3 +15,28 @@ O principal objetivo desse projeto foi usar meus conhecimentos de front-end de f
 - HTML
 - CSS
 - JavaScript
+
+## Demonstração
+
+<div align="center">
+  <img src="https://github.com/Maycon-Fidelis/Clone-Landing-Page-Starbucks/assets/133035269/ba00fded-9a2a-42e0-a9dd-8a1f022e20c9" alt="Captura de tela de 2024-07-10 20-52-37" width="49%">
+  <img src="https://github.com/Maycon-Fidelis/Clone-Landing-Page-Starbucks/assets/133035269/b8a2b621-f5ce-4ce2-b1de-02d5b0617068" alt="Captura de tela de 2024-07-10 20-52-44" width="49%">
+</div>
+
+## Visualizar Projeto
+
+Você pode visualizar o projeto online [clicando aqui](https://maycon-fidelis.github.io/Clone-Landing-Page-Starbucks/).
+
+## Como executar localmente
+``` bash
+git clone https://github.com/Maycon-Fidelis/Clone-Landing-Page-Starbucks.git
+```
+navegue até o diretorio do projeto
+``` bash
+cd Clone-Landing-Page-Starbucks
+```
+
+e digite:
+``` bash
+code .
+```
